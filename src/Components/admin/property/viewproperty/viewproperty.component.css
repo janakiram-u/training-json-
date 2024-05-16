@@ -1,0 +1,6 @@
+.view-flex{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    flex-wrap: wrap;
+}

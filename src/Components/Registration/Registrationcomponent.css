@@ -1,0 +1,23 @@
+
+.Registration{
+    width: 600px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left:30%;
+
+}
+.Registration h2 {
+    text-align: center;
+    color: black;
+}
+.submit-button{
+    background-color: brown;
+    color:aliceblue ;
+    padding: auto;
+    border-radius: 10px;
+    width: 80px;
+}
+.Registration.input {
+    background-color: azure;
+}

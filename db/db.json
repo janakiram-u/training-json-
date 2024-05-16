@@ -1,0 +1,154 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "firstName": "janakiram ",
+      "lastName": "udayagiri",
+      "company": "synergy universal",
+      "email": "janakiram@gmail.com",
+      "password": "1234",
+      "state": "Andhra pradesh",
+      "dob": "1999-07-01"
+    },
+    {
+      "id": 2,
+      "firstName": "madhu",
+      "lastName": "udayagiri",
+      "company": "synergy universal",
+      "email": "madhu@gmail.com",
+      "password": "12345",
+      "state": "Andhra pradesh",
+      "dob": "2001-09-12"
+    },
+    {
+      "id": 3,
+      "firstName": "murali",
+      "lastName": "p",
+      "company": "HCL",
+      "email": "murali@gmail.com",
+      "password": "12345",
+      "state": "Telangana",
+      "dob": "2000-06-19"
+    },
+    {
+      "id": 4,
+      "firstName": "Udayagiri",
+      "lastName": "Janakiram",
+      "company": "ouh",
+      "email": "janakiramudayagiri766@gmail.com",
+      "password": "87888",
+      "state": "Andhra pradesh",
+      "dob": "7878-09-08"
+    }
+  ],
+  "property-type": [
+    {
+      "id": 1,
+      "propertyName": "nellore",
+      "propertyDesc": "gmp",
+      "propertyfacilities": "kpl",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "propertyName": "ghj",
+      "propertyDesc": "kml",
+      "propertyfacilities": "l",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "propertyName": "appartment",
+      "propertyDesc": "appa",
+      "propertyfacilities": "app",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "propertyName": "uuytfr",
+      "propertyDesc": "awr",
+      "propertyfacilities": "8ujik",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "propertyName": "hjk",
+      "propertyDesc": "ljg",
+      "propertyfacilities": "jgd",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "propertyName": "new",
+      "propertyDesc": "new",
+      "propertyfacilities": "new",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "propertyName": "appartment",
+      "propertyDesc": "appartment",
+      "propertyfacilities": "all",
+      "isActive": true
+    }
+  ],
+  "add-property": [
+    {
+      "propertyName": "villa",
+      "propertyType": "1",
+      "id": 1
+    },
+    {
+      "propertyName": "big",
+      "propertyType": "1",
+      "id": 2
+    },
+    {
+      "propertyName": "",
+      "propertyType": "1",
+      "id": 3
+    },
+    {
+      "propertyName": "villz",
+      "propertyType": "nellore",
+      "squarefeet": "456",
+      "constructionDate": "2023-11-08",
+      "id": 4
+    },
+    {
+      "propertyName": "nill",
+      "propertyType": "uuytfr",
+      "squarefeet": "767",
+      "constructionDate": "2023-11-11",
+      "homeLoan": true,
+      "id": 5
+    },
+    {
+      "propertyName": "prop",
+      "propertyType": "nellore",
+      "squarefeet": "789",
+      "constructionDate": "2023-11-02",
+      "homeLoan": false,
+      "personalLoan": true,
+      "id": 6
+    },
+    {
+      "propertyName": "land",
+      "propertyType": "nellore",
+      "squarefeet": "567",
+      "constructionDate": "2023-11-02",
+      "homeLoan": true,
+      "personalLoan": false,
+      "id": 7
+    },
+    {
+      "propertyName": "jr",
+      "propertyType": "appartment",
+      "squarefeet": "345",
+      "constructionDate": "2023-11-06",
+      "homeLoan": true,
+      "personalLoan": false,
+      "id": 8
+    }
+  ]
+}

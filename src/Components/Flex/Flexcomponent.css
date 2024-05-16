@@ -1,0 +1,19 @@
+.image-flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(85, 122, 122);
+}
+.flex-item{
+margin: 20px;
+}
+@media screen and (max-width: 576px){
+.flex-item img{
+        width: 95vw;
+    }
+}
+@media screen and (min-width: 800px){
+    .flex-item img{
+        width:48vm;
+    }
+}
